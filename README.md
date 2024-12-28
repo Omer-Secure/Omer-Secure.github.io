@@ -1,8 +1,8 @@
-# <a href="https://vinodjangid07.github.io/" target="_blank">🌐 Vinay Patil | Portfolio</a>
+# <a href="https://Omer-Secure.github.io/" target="_blank">🌐 Omer Secure | Portfolio</a>
 Welcome to my portfolio! This repository contains the source code for my personal portfolio website, which showcases my work as a **web developer**, **digital visual artist**, and **certified ethical hacker**.
 
 🔗 **Live Demo:**  
-👉 [Vinay Patil Portfolio](https://vinaypatil-132.github.io/Portfolio/)
+👉 [Omer Secure Portfolio](https://Omer-Secure.github.io/)
 
 <img width="100%" alt="Portfolio Screenshot" src="src/png/overview.png">
 
@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository contains the source code for my persona
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Vinay Patil**, a **certified ethical hacker**, **digital visual artist**, and **web developer** with a solid background in **DevOps**. I take pride in creating secure, functional, and aesthetically pleasing digital experiences, with an emphasis on:
+Hi! I'm **Omer Secure**, a **certified ethical hacker**, **digital visual artist**, and **web developer** with a solid background in **DevOps**. I take pride in creating secure, functional, and aesthetically pleasing digital experiences, with an emphasis on:
 - **Simple content structures**
 - **Clean design patterns**
 - **Thoughtful interactions**
@@ -46,7 +46,7 @@ Follow these steps to use the portfolio locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vinaypatil-132/Portfolio.git
+   git clone https://github.com/Omer-Secure/Portfolio.git
    ```
 2. Navigate to the project directory:
     ```bash
@@ -66,7 +66,7 @@ Follow these steps to use the portfolio locally:
 ## 📬 Contact Me
 If you'd like to collaborate or have any inquiries, feel free to reach out!
 
-   - 📧 Email: [vinaycp50@gmail.com]
-   - 💼 LinkedIn: https://www.linkedin.com/in/vinay-patil-devops-engineering/
+   - 📧 Email: [omer.kh.bawazir@gmail.com]
+   - 💼 LinkedIn: https://www.linkedin.com/in/Omer-Secure/
 
 ## 🙏 Thanks for Visiting!

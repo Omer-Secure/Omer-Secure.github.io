@@ -649,5 +649,13 @@
     });
   </script>
 
+  <script>
+    const renderURL = 'https://secure-tools.onrender.com';
+    function wakeUpRender() {
+      fetch(renderURL, { method: 'GET' }).catch(() => {});
+    }
+    document.addEventListener('DOMContentLoaded', wakeUpRender);
+  </script>
+  
 </body>
 </html>
